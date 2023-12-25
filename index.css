@@ -1,0 +1,30 @@
+html, body {
+    background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+
+    background-size: cover;
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+}
+h1{
+    color:pink; 
+}
+#message-el
+
+{
+    font-style: italic;
+    color:blueviolet;
+}
+button
+{
+    color : #512da8;
+    width: 150px;
+    background: goldenrod;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    
+    
+    
+    
+}
